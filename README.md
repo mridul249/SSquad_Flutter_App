@@ -24,6 +24,21 @@ The **Advertisement Manager** is a Flutter-based application that allows users t
 
 ---
 
+## Screenshots
+
+### 1. Advertisement Page
+![Advertisement Page](project_images/img.png)
+
+### 2. Active & InActive Tabs
+![Create Advertisement Page](project_images/img_1.png)
+
+### 3. Create Advertisement
+![Edit Advertisement Page](project_images/img_2.png)
+
+![Filter and Search](project_images/img_3.png)
+
+---
+
 ## Folder Structure
 
 ```
@@ -64,22 +79,6 @@ lib/
 4. **New Ad Page (`NewAdPage.dart`)**
     - Provides a form to create new advertisements.
     - Includes a custom dropdown and chip input fields for location selection.
-
----
-
-## Screenshots
-
-### 1. Advertisement Page
-![Advertisement Page](project_images/img.png)
-
-### 2. Create Advertisement
-![Create Advertisement Page](project_images/img_1.png)
-
-### 3. Edit Advertisement
-![Edit Advertisement Page](project_images/img_2.png)
-
-### 4. Filter and Search
-![Filter and Search](project_images/img_3.png)
 
 ---
 
